@@ -66,13 +66,13 @@
 //         }
 //     }
 // }
-
 int main()
 {
     int ganjil=0;
     int genap=1;
-
-    for(int i=1; i<=11; i++)
+    int i;
+    
+    for(i=1; i<=11; i++)
     {
         if (i%2==1) {
         printf("%d\t", ganjil+=1);
