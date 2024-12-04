@@ -4,7 +4,7 @@ enum Film {
     Batman = 55000,
     Superman = 60000,
     Avengers = 70000,
-    Joker = 45000
+    Joker = 45000 
 };
 
 enum Jenis_tiket{
